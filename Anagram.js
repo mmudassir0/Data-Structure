@@ -17,7 +17,7 @@ function Anagram(str1,str2){
     }
     return true
 }
-Anagram("amzz","zazz")
+Anagram("amzz","zamz")
 
 // function Anagram(str1,str2){
 //     let obj1={}
